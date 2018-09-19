@@ -1,0 +1,7 @@
+/*.classpath
+/*.project
+/.settings/*.prefs
+/target/classes/com/cap/dojo/graphql/*.class
+/target/classes/com/cap/dojo/graphql/entity/*.class
+/target/classes/com/cap/dojo/graphql/fields/*.class
+/target/classes/com/cap/dojo/graphql/service/*.class
